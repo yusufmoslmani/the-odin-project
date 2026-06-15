@@ -1,1 +1,1 @@
-https://yusufmoslmani.github.io/the-odin-project/landing%20page/
+https://yusufmoslmani.github.io/the-odin-project/landing-page/
