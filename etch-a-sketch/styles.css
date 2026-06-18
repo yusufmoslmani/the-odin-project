@@ -1,0 +1,17 @@
+.squares{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 900px;
+    margin: auto;
+    border: 3px solid;
+
+}
+
+
+
+.createbutton{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: center;
+}
